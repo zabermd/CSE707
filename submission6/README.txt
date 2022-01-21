@@ -19,3 +19,7 @@ https://blog.stackpath.com/distributed-system/
 https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/
 https://www.ibm.com/docs/en/txseries/8.2?topic=overview-what-is-distributed-computing
 https://www.freecodecamp.org/news/a-dummys-guide-to-distributed-queues-2cd358d83780/
+
+Submittor:
+Name: Zaber Mohammad
+Applicant ID: 1034371479
